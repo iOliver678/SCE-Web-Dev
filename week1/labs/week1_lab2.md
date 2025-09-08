@@ -14,6 +14,12 @@
 
 ---
 
+### Outcome:
+<img width="1440" height="757" alt="Screenshot 2025-09-08 at 4 19 12 PM" src="https://github.com/user-attachments/assets/fe5bf207-7145-4ff1-832d-8babd2838cb6" />
+
+
+---
+
 ## What You Get
 
 - `index.html` (provided, unstyled — Food page)
