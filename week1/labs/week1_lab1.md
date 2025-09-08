@@ -12,6 +12,7 @@
 - Keep layout responsive and centered
 
 ## Outcome
+<img width="1440" height="750" alt="Screenshot 2025-09-08 at 3 39 50 PM" src="https://github.com/user-attachments/assets/7daf652a-ff0a-423b-ac1d-fc8448aee05b" />
 
 ---
 
