@@ -11,6 +11,8 @@
 - Practice core CSS (box model, spacing, borders, typography, hover/focus states)
 - Keep layout responsive and centered
 
+## Outcome
+
 ---
 
 ## ⏱ Timebox
@@ -171,7 +173,7 @@ Open `index.html` in a browser and confirm:
 - [ ] Button has hover + focus feedback
 - [ ] No external CSS libraries used
 
----
+## To view get the go live vscode extension and open your project
 
 ## 🌟 Stretch (Optional, 2–5 min)
 
