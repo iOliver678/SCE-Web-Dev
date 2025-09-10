@@ -83,19 +83,44 @@ touch pancakes.html
 - [ ] Add descriptive alt text to all images
 - [ ] Ensure site is usable and visually consistent across pages
 
-## Checkpoint 1 — Home Page
+### For now we are just going to add the elements, we will style them later.
 
-- [ ] Add a site header with a clear site title and optional subtitle
+## Checkpoint 1 — Home Page
+#### Open your index page on your browser
+  - [ ] If on MAC use:
+```
+open index.html
+```
+  - [ ] If on Windows use:
+```
+start index.html
+```
+- [ ] First lets connect your styles sheet to your html page
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homepage</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        
+    </body>
+</html>
+```
+- [ ] In index.html add a site header with a clear site title and optional subtitle
 - [ ] Add a main section titled “Table of Contents”
-- [ ] Create a three-item layout for recipes using CSS Grid
 - [ ] For each recipe card include: title, one-sentence blurb, and link to its recipe page
 - [ ] Add a site footer with your name or a simple message
 - [ ] Confirm navigation works: clicking a card opens the correct recipe page
-- [ ] Use CSS Styling to style page
 
-#### Should look something like that:
+### Should look something like this:
+<img width="391" height="788" alt="Screenshot 2025-09-10 at 2 20 53 PM" src="https://github.com/user-attachments/assets/bc03a2ec-5c90-42ee-963f-cc21c2f80c1c" />
+
 
 ## Checkpoint 2 — Recipe Pages
+
+#### For this checkpoint we will implement on the 3 recipes pages.
 
 - [ ] Include the same header and footer as the Home page
 - [ ] Add a clear page title matching the recipe
@@ -105,6 +130,10 @@ touch pancakes.html
 - [ ] Add an ordered list of step-by-step instructions
 - [ ] Add a “Back to Home” link
 
+### Should look something like this:
+<img width="468" height="907" alt="Screenshot 2025-09-10 at 2 21 10 PM" src="https://github.com/user-attachments/assets/8f3dbbd7-33e7-40a4-b925-aac68b524730" />
+
+
 ## Checkpoint 3 — Styling & Responsiveness
 
 - [ ] Apply consistent colors, fonts, and spacing in `styles.css`
@@ -113,3 +142,8 @@ touch pancakes.html
 - [ ] Add hover effects to links or recipe tiles
 - [ ] Make the layout responsive (e.g., single column on small screens)
 - [ ] Verify the site looks good on both desktop and mobile
+
+### This is the end result
+
+<img width="1920" height="934" alt="Screenshot 2025-09-10 at 2 16 33 PM" src="https://github.com/user-attachments/assets/f65a6b70-6f26-40c8-a1df-0a54b818b7b6" />
+<img width="630" height="773" alt="Screenshot 2025-09-10 at 2 18 48 PM" src="https://github.com/user-attachments/assets/a5f81309-983e-447e-9494-82e380bf7477" />
