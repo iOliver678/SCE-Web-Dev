@@ -91,6 +91,9 @@ touch pancakes.html
 - [ ] For each recipe card include: title, one-sentence blurb, and link to its recipe page
 - [ ] Add a site footer with your name or a simple message
 - [ ] Confirm navigation works: clicking a card opens the correct recipe page
+- [ ] Use CSS Styling to style page
+
+#### Should look something like that:
 
 ## Checkpoint 2 — Recipe Pages
 
