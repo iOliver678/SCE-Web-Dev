@@ -122,7 +122,7 @@ function reverseEachWord(message){
 Now we are almost done! we just need to use these methods on click!
 
 ## Step 4:
-We need to call our methods in order and manipulate the DOM to show our out similar to the way we just showed the defualt input
+We need to call our methods in order and manipulate the DOM to show our out similar to the way we just showed the default input
 
 
 ```javascript
@@ -133,3 +133,6 @@ var.addEventListener('click' () => {
   outputvar.textContent = decoded; //show our output by manipulating the DOM
 }
 ```
+
+After you do this you can now paste our secret message `r%vil^ &%vol #hct#*` into our program!
+What is it ?!
