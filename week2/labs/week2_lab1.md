@@ -1,4 +1,4 @@
-# Lab 1 - Javascript for begineers
+# Lab 1 - Javascript for beginners
 
 ### Goals:
 
