@@ -67,7 +67,7 @@ var.addEventListener('click' () => {
 }
 ```
 ## Step 2:
-The unknow source has told us that the way we can decode this is by first translating some chars. They gave us this map:
+The unknown source has told us that the way we can decode this is by first translating some chars. They gave us this map:
 | Symbol | Letter |
 |--------|--------|
 | #      | a      |
