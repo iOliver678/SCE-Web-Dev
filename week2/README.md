@@ -11,9 +11,9 @@ Below are some resources to learn more about API's and servers. There is a proje
 goes over how to make your own server using express.js.
 
 ### Videos
-[What is an API](https://youtu.be/-0MmWEYR2a8?si=454TeDTroF6-9WtW) <br>
-[REST API](https://youtu.be/-mN3VyJuCjM?si=3KKZYDCpCkVthf9f)
+- [What is an API](https://youtu.be/-0MmWEYR2a8?si=454TeDTroF6-9WtW) <br>
+- [REST API](https://youtu.be/-mN3VyJuCjM?si=3KKZYDCpCkVthf9f)
 
 ### Articles
-[HTTP Requests](https://dev.to/marlinekhavele/http-requestresponse-cycle-mb6) <br>
-[More HTTP](https://www.geeksforgeeks.org/web-tech/request-and-response-cycle-in-express-js/)
+- [HTTP Requests](https://dev.to/marlinekhavele/http-requestresponse-cycle-mb6) <br>
+- [More HTTP](https://www.geeksforgeeks.org/web-tech/request-and-response-cycle-in-express-js/)
