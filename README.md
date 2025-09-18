@@ -1,5 +1,5 @@
 # SCE-Web-Dev
-All of SCE Web Dev stuff
+All of SCE Web Dev stuff. Created by Oliver Majano.
 
 ## Week 1: HTML/CSS
 HTML (HyperText Markup Language) defines the structure of a webpage. It uses tags like `<h1>`, `<p>`, and `<div>` to organize content such as text, images, and links.
