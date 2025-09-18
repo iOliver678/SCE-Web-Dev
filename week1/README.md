@@ -3,6 +3,8 @@
 **Slides**: [Html CSS Basics](https://www.canva.com/design/DAGyQEP1W5s/kXlhnd7UYyZSm53OmY-QhQ/edit?utm_content=DAGyQEP1W5s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br>
 We went over the fundamentals of HTML and CSS, covering how to structure a webpage with HTML tags and style it with CSS. The lab focused on building simple pages and experimenting with layouts, colors, and fonts.
 
+**Labs**: [Labs](https://github.com/iOliver678/SCE-Web-Dev/tree/main/week1/labs) <br>
+
 **Videos**  
 - [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)  
 - [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)  
@@ -15,6 +17,8 @@ We went over the fundamentals of HTML and CSS, covering how to structure a webpa
 # Day 2
 **Slides**: [Advanced CSS](https://docs.google.com/presentation/d/1kWdNJej7asP9xdimyW5drw_54Zq6WkQuA2ko7JMFwS8/edit?usp=sharing) <br>
 We explored more advanced CSS concepts, including flexbox, grid, and responsive design. The discussion focused on how CSS makes websites adaptive to different screen sizes. A small project applied these techniques to create cleaner, more dynamic page layouts.
+
+**Project**: [Project](https://github.com/iOliver678/SCE-Web-Dev/blob/main/week1/project/week1_project.md) <br>
 
 **Videos**  
 - [Flexbox in 15 Minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE)  
