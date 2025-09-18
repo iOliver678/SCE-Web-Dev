@@ -7,6 +7,8 @@ On Day 2, we expanded into more advanced topics like asynchronous code, event ha
 **Slides**: [Intro to Javascript](https://docs.google.com/presentation/d/1lk8UGliVYyyAl2OZP7WH7pTb4UrDcT2UUYvcpKWLIUM/edit?usp=sharing) <br>
 We went over basic javascript and did lab.
 
+**Lab**: [Lab](https://github.com/iOliver678/SCE-Web-Dev/blob/main/week2/labs/week2_lab1.md)
+
 ## Day 2
 **Slides**: [Advanced Javascript](https://docs.google.com/presentation/d/10naRjFBlVkg2bn4IORi57H4mPQd3hTK1kxwqn3DF-18/edit?usp=sharing) <br>
 We went over more javascript and also talked about the 3 tier architecture. Essentially REST.
