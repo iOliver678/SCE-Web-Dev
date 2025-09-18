@@ -11,6 +11,6 @@ Together, HTML builds the skeleton, and CSS provides the design.
 [Week 1 Resources](https://github.com/iOliver678/SCE-Web-Dev/tree/main/week1)
 
 ## Week 2: JavaScript
+JavaScript is a programming language that adds interactivity and logic to web pages. It lets you respond to user actions, update content dynamically, and connect with external data (like APIs), making sites interactive rather than just static HTML/CSS.
 
-
-Go to week and do labs first then project
+[Week 2 Resources](https://github.com/iOliver678/SCE-Web-Dev/tree/main/week2)
