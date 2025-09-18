@@ -2,7 +2,7 @@
 All of SCE Web Dev stuff
 
 ## Week 1: HTML/CSS
-HTML (HyperText Markup Language) defines the structure of a webpage. It uses tags like <h1>, <p>, and <div> to organize content such as text, images, and links.
+HTML (HyperText Markup Language) defines the structure of a webpage. It uses tags like `<h1>`, `<p>`, and `<div>` to organize content such as text, images, and links.
 
 CSS (Cascading Style Sheets) controls the presentation of that content. It adds styling—like colors, fonts, layouts, spacing, and responsiveness—so the page looks polished and user-friendly.
 
