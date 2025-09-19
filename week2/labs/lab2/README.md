@@ -62,7 +62,7 @@ This file will act as the main entry point for your backend — it’s where you
 
 ### Step 2: Set Up the Express Server
 
-Open `index.js` and paste the following starter code:
+Open `index.js` and write the following starter code:
 
 ```js
 const express = require("express");
@@ -269,16 +269,6 @@ app.listen(PORT, () => {
 - How to use Postman to test endpoints
 - How to simulate data using an in-memory array
 - How HTTP methods map to actions (GET → read, POST → create, DELETE → delete)
-
-## What's Next?
-
-Want to go further?
-
-- Learn how to persist your data using MongoDB or PostgreSQL
-- Add PUT and PATCH routes to update to-do items
-- Add form validation and error handling
-- Build a simple frontend with HTML or React
-- Deploy your server using Render, Vercel, or Railway
 
 ## Wrap-Up
 
