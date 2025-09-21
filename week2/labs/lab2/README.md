@@ -23,6 +23,12 @@ By the end of this lab, you will be able to:
 ## Let's Get Started (60–75 mins)
 
 ### Step 0: Setup
+### Important
+You must have node.js installed, check by running
+```
+node -v
+```
+if not install here: [download](https://nodejs.org/en/download)
 
 #### Your Turn
 
