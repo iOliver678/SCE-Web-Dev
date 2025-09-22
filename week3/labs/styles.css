@@ -1,0 +1,78 @@
+/* style.css */
+
+/* Reset some default spacing */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  /* Container for the app */
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header */
+  h1 {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  
+  /* Input and Add Button */
+  .input-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .input-row input[type="text"] {
+    flex: 1;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .input-row button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Todo List Items */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: #f1f1f1;
+    margin-bottom: 12px;
+    padding: 10px 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+  }
+  
+  /* Task Text */
+  li span {
+    flex-grow: 1;
+  }
+  
+  /* Buttons */
+  li button {
+    margin-left: 8px;
+    padding: 6px 10px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ddd;
+  }
+  
