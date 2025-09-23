@@ -14,3 +14,8 @@ Together, HTML builds the skeleton, and CSS provides the design.
 JavaScript is a programming language that adds interactivity and logic to web pages. It lets you respond to user actions, update content dynamically, and connect with external data (like APIs), making sites interactive rather than just static HTML/CSS.
 
 [Week 2 Resources](https://github.com/iOliver678/SCE-Web-Dev/tree/main/week2)
+
+## Week 3: React
+React is a javascript library that allows you to right Component-based code, its reusable, modular code (e.g., navbar across pages).
+
+[Week 3 Resources](https://github.com/iOliver678/SCE-Web-Dev/tree/main/week3)
