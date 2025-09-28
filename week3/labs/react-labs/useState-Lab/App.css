@@ -1,0 +1,52 @@
+/* Container */
+.app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Title */
+  .title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Count display */
+  .count {
+    font-size: 1.5rem;
+    margin: 15px 0;
+  }
+  
+  /* Button group */
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  /* Base button styles */
+  .btn {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Specific styles for + and - */
+  .increment {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .decrement {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  /* Hover effect */
+  .btn:hover {
+    opacity: 0.9;
+  }
+  
