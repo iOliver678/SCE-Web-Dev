@@ -71,7 +71,7 @@ export default App;
 
 ## Step 3: Import useState
 
-Lets start off by importing useState. We’ll need it to fetch data and store results. Then create 4 state hooks. `cityName`, `weather`, `loading`, and `error`. Set them to null, null, null, False, and null.
+Lets start off by importing useState. We’ll need it to fetch data and store results. Then create 4 state hooks. `cityName`, `weather`, `loading`, and `error`. Set them to "", null, False, and null.
 
 <details>
 <summary>Hint</summary>
@@ -82,7 +82,7 @@ Add this to the top of your file:
 import { useState } from "react";
 ```
 
-Then create 5 pieces of state: `cityName`, `weather`, `loading`, `error`.
+Then create 4 pieces of state: `cityName`, `weather`, `loading`, `error`.
 
 </details>
 
