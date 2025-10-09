@@ -34,4 +34,4 @@ Db are a way to store data and we show how to use SQLite, a lightweight version 
 
 Intro to Rag and Auth
 <br>
-[Week 5 Resources]()
+[Week 5 Resources](https://github.com/iOliver678/SCE-Web-Dev/tree/main/week5)
