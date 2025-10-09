@@ -19,3 +19,7 @@ JavaScript is a programming language that adds interactivity and logic to web pa
 React is a javascript library that allows you to right Component-based code, its reusable, modular code (e.g., navbar across pages).
 
 [Week 3 Resources](https://github.com/iOliver678/SCE-Web-Dev/tree/main/week3)
+
+## Week 4: Database + More
+Db are a way to store data and we show how to use SQLite, a lightweight version of SQL.
+[Week 4 Resources]()
