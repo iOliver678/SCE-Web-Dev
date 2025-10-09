@@ -27,7 +27,8 @@ React is a javascript library that allows you to right Component-based code, its
 ## Week 4: Database + More
 
 Db are a way to store data and we show how to use SQLite, a lightweight version of SQL.
-[Week 4 Resources]()
+<br>
+[Week 4 Resources](https://github.com/iOliver678/SCE-Web-Dev/tree/main/week4)
 
 ## Week 5: Rag + Auth
 
