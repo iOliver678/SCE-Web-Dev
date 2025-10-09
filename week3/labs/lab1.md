@@ -87,7 +87,7 @@ In the `App.jsx` UI:
 - [ ] When clicked, log the text from the input field
 - [ ] You don’t need to store or display the new task yet
 
----
+---–––
 
 ## Step 5: Simulate Add/Edit/Delete
 
